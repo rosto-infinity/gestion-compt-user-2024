@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/gestion_compte_user",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ROSTO.infinity",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
